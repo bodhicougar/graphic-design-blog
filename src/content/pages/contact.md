@@ -7,4 +7,4 @@ Got a burning question regarding **JAMstack**, need a new **Website**, or just a
 
 [Get an appointment online? Click here!](https://calendly.com/blackboxmd/20-minuten-erstgesprach)
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/BBMediaDesign).
+Just send us a message using the form below or you can send us a [DM on Twitter.](https://twitter.com/BBMediaDesign)
