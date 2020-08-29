@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Walter O. Achammer
 tagline: Web Strategist
-featuredImage: /assets/porträit-walter-achammer.jpg
+featuredImage: /assets/walter.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
